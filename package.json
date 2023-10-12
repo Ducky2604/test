@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "-   Implement all of the programs using JavaScript / TypeScript.\r -   Implement Jest test cases wherever possible and ES Lint for all projects.\r -   You can re-use your ES Lint rules between projects or copy from the internet.\r ## Exercise 1: Simple Function Testing\r Task: Write a function that finds the maximum of two numbers. Create Jest tests to verify the correctness of the function.\r ## Exercise 2: Array Sum\r Task: Write a function that takes an array of numbers and returns the sum of all elements. Create Jest tests to ensure the function works correctly.\r ## Exercise 3: String Length\r Task: Write a function that takes a string as input and returns its length. Create Jest tests to verify that the function returns the correct length for different strings.\r ## Exercise 4: Error Handling in Function\r Task: Write a function that divides two numbers. Handle the case where division by zero occurs. Create Jest tests to verify the function's behavior in normal and error scenarios.\r ## Exercise 5: Error Handling in Function\r Task: Write a function that calculates the square root of a number. Handle the case where the input is negative, and return an error message. Create Jest tests to verify the function's behavior in normal and error scenarios.\r ## Exercise 6: Array Manipulation Function\r Task: Write a function that takes an array of numbers and returns a new array with each number squared. Create Jest tests to ensure the function works correctly for different input cases.\r ## Exercise 7: String Manipulation Function\r Task: Write a function that takes a string as input and returns the string reversed. Create Jest tests to ensure the function works correctly for various string inputs.\r ## Exercise 8: Palindrome Checker\r Task: Write a function that checks if a given string is a palindrome (reads the same backward as forward). Create Jest tests to verify the function's correctness.\r ## Exercise 9: Object Manipulation\r Task: Write a function that takes an array of objects and returns a new array with objects sorted by a specific property. Create Jest tests to ensure the sorting logic is correct.\r ## Exercise 10: Prime Number Checker\r Task: Write a function that checks if a given number is a prime number. Create Jest tests to verify the correctness of the function for various input values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "jest": "^29.7.0"
+  }
+}
